@@ -1,0 +1,2 @@
+# IOT-based-Home-Automation-with-Fire-Detection-System
+The IoT-based Home Automation System lets users remotely control home appliances via a smartphone app and includes integrated fire detection sensors. Using a microcontroller and the Blynk app, it offers convenience and safety. Fire sensors trigger alarms and send alerts, ensuring swift responses to hazards, enhancing home management efficiency.
